@@ -1,0 +1,5 @@
+E:\MyGitHub\Repo\TDD_Day1_Hw\Product\bin\Debug\Product.dll
+E:\MyGitHub\Repo\TDD_Day1_Hw\Product\bin\Debug\Product.pdb
+E:\MyGitHub\Repo\TDD_Day1_Hw\Product\obj\Debug\Product.csprojResolveAssemblyReference.cache
+E:\MyGitHub\Repo\TDD_Day1_Hw\Product\obj\Debug\Product.dll
+E:\MyGitHub\Repo\TDD_Day1_Hw\Product\obj\Debug\Product.pdb

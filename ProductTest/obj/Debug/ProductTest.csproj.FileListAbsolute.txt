@@ -1,0 +1,12 @@
+D:\TTD_HW\Day1\TTD_HW_Day1\ProductTest\bin\Debug\ProductTest.pdb
+E:\MyGitHub\Repo\TDD_Day1_Hw\ProductTest\bin\Debug\ProductTest.dll
+E:\MyGitHub\Repo\TDD_Day1_Hw\ProductTest\bin\Debug\ProductTest.pdb
+E:\MyGitHub\Repo\TDD_Day1_Hw\ProductTest\bin\Debug\CalculaterProduct.dll
+E:\MyGitHub\Repo\TDD_Day1_Hw\ProductTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\MyGitHub\Repo\TDD_Day1_Hw\ProductTest\bin\Debug\Product.dll
+E:\MyGitHub\Repo\TDD_Day1_Hw\ProductTest\bin\Debug\CalculaterProduct.pdb
+E:\MyGitHub\Repo\TDD_Day1_Hw\ProductTest\bin\Debug\Product.pdb
+E:\MyGitHub\Repo\TDD_Day1_Hw\ProductTest\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\MyGitHub\Repo\TDD_Day1_Hw\ProductTest\obj\Debug\ProductTest.csprojResolveAssemblyReference.cache
+E:\MyGitHub\Repo\TDD_Day1_Hw\ProductTest\obj\Debug\ProductTest.dll
+E:\MyGitHub\Repo\TDD_Day1_Hw\ProductTest\obj\Debug\ProductTest.pdb

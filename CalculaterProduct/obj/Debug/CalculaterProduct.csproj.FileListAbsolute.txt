@@ -1,0 +1,7 @@
+E:\MyGitHub\Repo\TDD_Day1_Hw\CalculaterProduct\bin\Debug\CalculaterProduct.dll
+E:\MyGitHub\Repo\TDD_Day1_Hw\CalculaterProduct\bin\Debug\CalculaterProduct.pdb
+E:\MyGitHub\Repo\TDD_Day1_Hw\CalculaterProduct\bin\Debug\Product.dll
+E:\MyGitHub\Repo\TDD_Day1_Hw\CalculaterProduct\bin\Debug\Product.pdb
+E:\MyGitHub\Repo\TDD_Day1_Hw\CalculaterProduct\obj\Debug\CalculaterProduct.csprojResolveAssemblyReference.cache
+E:\MyGitHub\Repo\TDD_Day1_Hw\CalculaterProduct\obj\Debug\CalculaterProduct.dll
+E:\MyGitHub\Repo\TDD_Day1_Hw\CalculaterProduct\obj\Debug\CalculaterProduct.pdb
